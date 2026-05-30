@@ -16,3 +16,11 @@
   },
   "private": true
 }
+{
+  "build": {
+    "development": {
+      "developmentClient": true,
+      "distribution": "internal"
+    }
+  }
+}
