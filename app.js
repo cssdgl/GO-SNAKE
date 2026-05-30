@@ -24,3 +24,20 @@
     }
   }
 }
+{
+  "expo": {
+    "name": "GO SNAKE",
+    "slug": "go-snake",
+    "version": "1.0.0",
+    "ios": {
+      "bundleIdentifier": "com.tonnom.gosnake",
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.tonnom.gosnake"
+    },
+    "plugins": [
+      "react-native-google-mobile-ads"
+    ]
+  }
+}
