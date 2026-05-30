@@ -1,0 +1,9 @@
+{
+  "expo": {
+    "name": "GO SNAKE",
+    "slug": "go-snake",
+    "ios": {
+      "bundleIdentifier": "com.tonnom.gosnake"
+    }
+  }
+}
